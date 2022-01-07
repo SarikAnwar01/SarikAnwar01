@@ -58,8 +58,6 @@ YOUTUBE:END -->
 
 <!-- ➡️ [more videos...](https://youtube.com/SarikAnwar) -->
 
---- -->
-
 <!-- ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -71,9 +69,7 @@ YOUTUBE:END -->
 - [Emmet Part 2 - Advanced](https://dev.to/SarikAnwar/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](https://SarikAnwar.com) --> -->
-
---- -->
+<!-- ➡️ [more blog posts...](https://SarikAnwar.com) -->
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
