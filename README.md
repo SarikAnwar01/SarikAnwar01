@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarik [SarikAnwar]👋
 
-[![Website](https://img.shields.io/website?label=SarikAnwar.com&style=for-the-badge&url=https%3A%2F%2FSarikAnwar.com)](https://github.com/SarikAnwar01)
+[![Facebook](https://img.shields.io/website?label=SarikAnwar.com&style=for-the-badge&url=https%3A%2F%2FSarikAnwar.com)](https://www.facebook.com/sarik.anwar/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sarik_Anwar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarik_Anwar&screen_name=Sarik_Anwar)
 
 ## I'm a Student, Brother, Developer, and Gamer!!
