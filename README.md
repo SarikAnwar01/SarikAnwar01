@@ -90,6 +90,7 @@ START_SECTION:activity-->
   <img align="left" alt="SarikAnwar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SarikAnwar01&show_icons=true&hide_border=true&theme=cobalt" />
 
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarikAnwar01)](https://github.com/SarikAnwar01/github-readme-stats)
 
 [website]: https://github.com/SarikAnwar01
 [course]: http://vsCodeHero.com
