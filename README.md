@@ -1,4 +1,4 @@
-### Hi there, I'm Sarik [SarikAnwar]👋
+### Hi there, I'm SarikAnwar👋
 
 [![Facebook](https://img.shields.io/twitter/url?color=blue&label=profile&logo=Facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fsarik.anwar%2F)](https://www.facebook.com/sarik.anwar/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sarik_Anwar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSarik_Anwar&screen_name=Sarik_Anwar)
