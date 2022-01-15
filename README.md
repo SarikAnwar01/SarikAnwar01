@@ -8,7 +8,7 @@
 - 🔭 I have just started the path of a developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Learn To be a better Developer
 - ⚡ Fun fact: I love to draw and play online games / offline games
 
 ### Connect with me:
