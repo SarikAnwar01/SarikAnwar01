@@ -103,3 +103,5 @@ START_SECTION:activity-->
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+ <img height="200" width="325" src="https://cdn.dribbble.com/users/3349387/screenshots/6852156/xo.gif"/></a>
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  alt="Sarik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarikAnwar01&theme=algolia"/>
