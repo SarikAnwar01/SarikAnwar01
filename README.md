@@ -62,6 +62,5 @@ src="https://img.shields.io/github/followers/SarikAnwar01?logo=github&style=for-
 <a href="https://github.com/SarikAnwar01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarikAnwar01&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-<iframe src="https://github.com/sponsors/SarikAnwar01/button" title="Sponsor SarikAnwar01" height="35" width="116" style="border: 0;"></iframe>
 
 <a href="https://www.buymeacoffee.com/sarikanwar1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
